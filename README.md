@@ -1,4 +1,4 @@
-# Structured Learning
+# Courses & Trainings = Structured Learning
 
 This repository contains my learnings, projects, documentation and notes from all the courses I have enrolled myself in.
 
